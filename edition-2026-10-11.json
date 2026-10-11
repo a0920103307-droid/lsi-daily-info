@@ -1,0 +1,100 @@
+{
+  "edition_date": "2026-10-11",
+  "built_at": "2026-10-12",
+  "edition_status": "PUBLIC_PREVIEW_CANDIDATE_NOT_DEPLOYED",
+  "caveat": "此版本是 10/11 歷史期初始測試內容；不是 10/12 即時新聞",
+  "events": [
+    {
+      "event_id": "OCT11-008",
+      "category": "民生財經",
+      "date": "2026-10-11",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "美國啟動 AI 設備供電專利調查，台廠說明營運影響",
+          "body": "美國國際貿易委員會（USITC）10 月 9 日開始調查特定供電技術是否涉及專利侵權，鴻海、台達電、廣達等企業列名。這是立案調查，並非認定違法。10 月 11 日晚間，多家企業表示將依法處理，相關產品與營運當時未受影響。",
+          "action": "關注 USITC 原始案件及企業最新公告，勿把調查誤解為侵權判決。",
+          "caveat": "根據截至 2026-10-11 的資料；調查仍可能有後續進展。",
+          "source": "https://www.usitc.gov/press_room/news_release/2026/er1009_69342.htm",
+          "content_id": "OCT11-008:L1",
+          "release_state": "CLOSED_ALPHA_SIGNOFF"
+        },
+        {
+          "level": "L2",
+          "title": "337 調查會讓台灣公司的產品不能賣到美國嗎？",
+          "body": "不會因為立案就直接禁售。337 是調查進口產品是否涉及不公平貿易行為的程序。申訴方提出主張後，還須經過審理；如果最終確認違規，才可能針對特定涉案產品發布排除令或停止命令，不能推論所有 AI 設備都會被禁止進口。",
+          "action": "查案件 337-TA-1526 最新程序、涉案產品範圍與企業公告。",
+          "caveat": "尚無本稿可確認的最終裁決；後續以 USITC 為準。",
+          "source": "https://www.usitc.gov/press_room/news_release/2026/er1009_69342.htm",
+          "content_id": "OCT11-008:L2",
+          "release_state": "CLOSED_ALPHA_SIGNOFF"
+        },
+        {
+          "level": "L3",
+          "title": "美國 337 調查完整解析：台灣 AI 供應鏈要留意什麼？",
+          "body": "【起點】美國 Vicor 公司申訴部分垂直供電系統、零組件及搭載系統的運算設備可能侵犯其專利。USITC 於 2026 年 10 月 9 日正式啟動調查，案號 337-TA-1526。這是申訴主張，尚非侵權認定。\n\n【誰受到影響】鴻海、台達電、廣達等列名企業可能需要回應調查；被列名不代表整家公司或全部產品都被禁止進口。\n\n【程序怎麼走】立案、調查與審理後，主管機關才會依程序判定。最終如果確認違反 337 條款，可能針對特定產品範圍作出排除或停止命令。\n\n【目前回應】10 月 11 日晚間多家企業表示當時生產、出貨或營運未受重大影響；這是該時點聲明，不代表未來不會有變化。\n\n【怎麼追蹤】先看 USITC 正式程序及裁定，再看公司的公告。法律費用、設計變更、出貨調整等都屬可能情境，尚不能推算具體財務損失。",
+          "action": "閱讀原始案件及企業重大訊息，區分事實、申訴主張與未來推測。",
+          "caveat": "歷史資訊及一般法規介紹，非法律或投資建議。",
+          "source": "https://www.usitc.gov/press_room/news_release/2026/er1009_69342.htm",
+          "content_id": "OCT11-008:L3",
+          "release_state": "CLOSED_ALPHA_SIGNOFF"
+        }
+      ]
+    },
+    {
+      "event_id": "OCT11-017",
+      "category": "社會權益",
+      "date": "2026-10-11",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L2",
+          "title": "懷疑孩子遭受虐待，應該怎麼求助？",
+          "body": "如果孩子有立即的人身危險，先撥打 110 報警。若懷疑孩子遭受虐待、疏忽照顧或其他傷害，可撥 113 保護專線，全年 24 小時可通報或諮詢。通報時盡量說明地點、發現的情況與大約時間，不需要自行查明犯罪，也不要公開兒童姓名、照片或未經證實的指控。",
+          "action": "有立即危險打 110；疑似保護案件可打 113。",
+          "caveat": "這是一般求助指南，不代表特定案件已判決有罪。",
+          "source": "https://dep.mohw.gov.tw/DOPs/cp-1183-6499-105.html",
+          "content_id": "OCT11-017:L2",
+          "release_state": "CLOSED_ALPHA_SIGNOFF"
+        }
+      ]
+    },
+    {
+      "event_id": "OCT11-015",
+      "category": "社會權益",
+      "date": "2026-10-11",
+      "archive": true,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "枋寮前鄉長遭懲戒免職、罰 50 萬元，刑事程序另須區分",
+          "body": "屏東枋寮前鄉長陳亞麟涉及工程回扣案，懲戒法院判處免除職務、罰款 50 萬元，仍可上訴。刑事判決與懲戒屬不同司法程序，不能把懲戒決定寫成所有刑事責任已經確定。",
+          "action": "查詢後續裁判是否確定，區分刑事與懲戒程序。",
+          "caveat": "10 月 11 日歷史報導；後續司法進展未納入本期。",
+          "source": "https://www.cna.com.tw/news/asoc/202610110068.aspx",
+          "content_id": "OCT11-015:L1",
+          "release_state": "CLOSED_ALPHA_SIGNOFF"
+        }
+      ]
+    },
+    {
+      "event_id": "OCT11-021",
+      "category": "體育旅遊",
+      "date": "2026-10-11",
+      "archive": true,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "林逸凡滑板世錦賽第 8 名，奧運積分仍待正式確認",
+          "body": "台灣選手林逸凡在滑板世界錦標賽女子公園式決賽拿下第 8 名，成績為 54.66 分。報導提到預估增加奧運積分，但正式積分與奧運資格仍須以國際賽會公布為準。第 8 名不等於取得奧運門票。",
+          "action": "追蹤正式排名及奧運資格公告。",
+          "caveat": "10 月 11 日歷史賽果；正式奧運積分尚待確認。",
+          "source": "https://www.cna.com.tw/news/aspt/202610110052.aspx",
+          "content_id": "OCT11-021:L1",
+          "release_state": "CLOSED_ALPHA_SIGNOFF"
+        }
+      ]
+    }
+  ]
+}
