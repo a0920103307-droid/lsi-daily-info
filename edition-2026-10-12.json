@@ -1,0 +1,806 @@
+{
+  "edition_date": "2026-10-12",
+  "built_at": "2026-10-13",
+  "edition_status": "STAGING_READY_SOURCE_LINK_REVIEW_REQUIRED",
+  "caveat": "10月12日刊物，共21篇，排除待審04、13、18。逐篇原始來源URL未隨交付提供；此版本供網站上傳預覽，非真實來源獨立驗證或正式刊登許可。",
+  "events": [
+    {
+      "event_id": "LSI_EVT_20261012_01",
+      "category": "交通天氣地方",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "花蓮近海規模3.7地震 最大震度花蓮彰化2級",
+          "body": "花蓮近海發生規模3.7地震，最大震度2級，無災損傳出，民眾無需恐慌並注意高處固定。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.cwa.gov.tw/",
+          "content_id": "LSI_EVT_20261012_01:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "花蓮近海規模3.7地震 最大震度花蓮彰化2級｜自保操作步驟",
+          "body": "1. 檢查家中瓦斯管線與高處懸掛物是否穩固\n2. 地震突發時牢記趴下(Drop)、掩護(Cover)、穩住(Hold on)\n3. 關注中央氣象署官方測報，切勿轉傳未核實災情",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.cwa.gov.tw/",
+          "content_id": "LSI_EVT_20261012_01:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "花蓮近海規模3.7地震 最大震度花蓮彰化2級｜依據與限制",
+          "body": "中央氣象署地震測報中心第0437號測報；震央位於花蓮縣府南方50.4公里，深度31.6公里。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.cwa.gov.tw/",
+          "content_id": "LSI_EVT_20261012_01:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_02",
+      "category": "交通天氣地方",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "全台非法旅宿1600家 1至9月開罰1.4億元",
+          "body": "訂房前務必至臺灣旅宿網核對登記證號，切勿入住無照日租套房以維護安全與消費權益。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.taiwan.net.tw/",
+          "content_id": "LSI_EVT_20261012_02:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "全台非法旅宿1600家 1至9月開罰1.4億元｜自保操作步驟",
+          "body": "1. 訂房平台下單前至「臺灣旅宿網」查詢合法登記\n2. 抵達時確認門牌是否懸掛「合法旅宿標章」\n3. 若遇無照經營或消費爭議，保留訂單收據向觀光署或縣市政府消保官申訴",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.taiwan.net.tw/",
+          "content_id": "LSI_EVT_20261012_02:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "全台非法旅宿1600家 1至9月開罰1.4億元｜依據與限制",
+          "body": "發展觀光條例第55條：未領取登記證經營旅館業務者，處新臺幣10萬元以上50萬元以下罰鍰並得勒令歇業。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.taiwan.net.tw/",
+          "content_id": "LSI_EVT_20261012_02:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_03",
+      "category": "交通天氣地方",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "合歡山水晶宮路段逆向、併排停車 南投警加強取締",
+          "body": "合歡山路段路幅狹窄，違規停車將面臨逕行舉發與連續拖吊開罰，駕駛切勿僥倖違停。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_03:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "合歡山水晶宮路段逆向、併排停車 南投警加強取締｜自保操作步驟",
+          "body": "1. 行前先查合歡山各停車場剩餘車位，若客滿切勿於紅線或狹窄彎道排隊臨停\n2. 遇警察指揮遵行單向疏導，切勿跨越分向線逆向超車\n3. 違規遭取締依道交條例裁罰，影響救災救援者依法究辦",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_03:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "合歡山水晶宮路段逆向、併排停車 南投警加強取締｜依據與限制",
+          "body": "道路交通管理處罰條例第56條：在禁止臨時停車處所停車，處新臺幣600元以上1200元以下罰鍰。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_03:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_05",
+      "category": "社會權益",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "網購退貨遭遇賣家拒退！消保官釋疑合理例外情事",
+          "body": "網購原則享有7天猶豫期，但生鮮食品、客製商品及已拆封衛生用品屬合法例外不適用退貨。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_05:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "網購退貨遭遇賣家拒退！消保官釋疑合理例外情事｜自保操作步驟",
+          "body": "1. 拆箱時全程錄影並保留商品包裝外箱\n2. 非合理例外商品若賣家拒退，可至行政院消保處官網提出線上消費申訴\n3. 避免於社群私訊一頁式廣告下單以防止求償無門",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_05:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "網購退貨遭遇賣家拒退！消保官釋疑合理例外情事｜依據與限制",
+          "body": "消費者保護法第19條及「通訊交易解除權合理例外情事準則」：生鮮、個人衛生、客製化等排除無條件解約。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_05:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_06",
+      "category": "社會權益",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "租屋電費怎麼算？房東不能任意加價",
+          "body": "租屋電費不是房東說多少就多少。有獨立電表依約定與當期帳單計算，未設獨立電表不得超過台電每度平均電價。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.moi.gov.tw/",
+          "content_id": "LSI_EVT_20261012_06:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "租屋電費怎麼算？房東不能任意加價｜自保操作步驟",
+          "body": "1. 簽約前確認電表形式並核對定型化契約電費約定條款\n2. 繳費時要求房東出示當期台電電費單據與度數計算明細\n3. 房東若違法超收，先保留單據溝通，必要時向地方消保官或地政機關申訴",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.moi.gov.tw/",
+          "content_id": "LSI_EVT_20261012_06:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "租屋電費怎麼算？房東不能任意加價｜依據與限制",
+          "body": "內政部住宅租賃定型化契約應記載及不得記載事項新制：約定電費不得超過台電當期帳單計費標準，違者最高罰50萬元。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.moi.gov.tw/",
+          "content_id": "LSI_EVT_20261012_06:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_07",
+      "category": "省錢優惠",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "LINE Pay與悠遊付10月中旬指定通路回饋比率與名額限制",
+          "body": "行動支付高回饋多設有總預算封頂與個別名額限制，結帳前務必確認當月剩餘額度。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_07:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "LINE Pay與悠遊付10月中旬指定通路回饋比率與名額限制｜自保操作步驟",
+          "body": "1. 活動首日或週末清晨登入錢包確認名額是否已額滿\n2. 核對消費通路是否符合「指定獨立門市」而非商場百貨排除門市\n3. 結帳後立即檢查點數或回饋金入帳紀錄，有短少即時反映客服",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_07:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "LINE Pay與悠遊付10月中旬指定通路回饋比率與名額限制｜依據與限制",
+          "body": "各行動支付公司公開活動規範：點數回饋採總額控管，滿額即提前結束並於活動頁公告。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_07:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_08",
+      "category": "省錢優惠",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "量販超市週末抗通膨專區與限時買一送一品項實體盤點",
+          "body": "超市平價抗通膨專區集中於米麵油民生消耗品，購買前注意特價效期與限購數量。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_08:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "量販超市週末抗通膨專區與限時買一送一品項實體盤點｜自保操作步驟",
+          "body": "1. 優先挑選具有抗通膨抗漲標籤之自有品牌或大包裝主食\n2. 買一送一生鮮檢查保存期限，避免過量囤積腐敗造成浪費\n3. 搭配超市會員集點折抵與會員日專屬加碼，放大實質折抵效益",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_08:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "量販超市週末抗通膨專區與限時買一送一品項實體盤點｜依據與限制",
+          "body": "連鎖量販促銷公開條款：特價品項數量有限售完為止，每人每筆消費以限購數量為上限。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_08:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_09",
+      "category": "省錢優惠",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "節能家電補助3000元申請需知：注意年度預算與名額限制",
+          "body": "購買一級能效冷氣冰箱最高補助3000元，但受年度經費額度限制，買完需儘速申請並備齊回收聯單。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.moeaea.gov.tw/",
+          "content_id": "LSI_EVT_20261012_09:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "節能家電補助3000元申請需知：注意年度預算與名額限制｜自保操作步驟",
+          "body": "1. 購買前先至補助官網查詢「年度補助經費剩餘額度」\n2. 安裝時務必索取並妥善保留環保署「廢四機回收聯單」第三聯\n3. 備妥統一發票、存摺封面線上送件，搭配貨物稅減徵最高可省5000元",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.moeaea.gov.tw/",
+          "content_id": "LSI_EVT_20261012_09:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "節能家電補助3000元申請需知：注意年度預算與名額限制｜依據與限制",
+          "body": "經濟部能源署住宅家電汰舊換新節能補助作業要點：經費預算用罄即提前停止受理申請。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.moeaea.gov.tw/",
+          "content_id": "LSI_EVT_20261012_09:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_10",
+      "category": "民生財經",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "境外所得免稅額度與申報新規釋疑",
+          "body": "全年海外所得達100萬元且個人基本所得額超過免稅門檻者，應主動申報最低稅負制。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_10:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "境外所得免稅額度與申報新規釋疑｜自保操作步驟",
+          "body": "1. 每年初向海外券商或複委託機構申請前一年度年度獲利與交易對帳單\n2. 核算同一申報戶全年度海外利息、股利及資本利得是否達100萬元\n3. 達標者於綜合所得稅申報期併同填報基本稅額申報表，避免漏報受罰",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_10:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "境外所得免稅額度與申報新規釋疑｜依據與限制",
+          "body": "所得基本稅額條例第12條：個人基本所得額包含非中華民國來源所得，未依規定申報將補稅處罰。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_10:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_11",
+      "category": "民生財經",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "偽冒銀行簡訊通知更新個資詐騙手法翻新",
+          "body": "銀行絕不會傳送簡訊短網址要求民眾輸入網銀帳密或OTP，點擊輸入將遭盜轉資金。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_11:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "偽冒銀行簡訊通知更新個資詐騙手法翻新｜自保操作步驟",
+          "body": "1. 收到任何「帳戶異常、更新個資、逾期未繳」簡訊一律不點擊連結\n2. 自行開啟官方App或官方客服電話查證\n3. 若不慎輸入個資與卡號，立即致電銀行辦理停卡並撥打165反詐專線通報",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_11:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "偽冒銀行簡訊通知更新個資詐騙手法翻新｜依據與限制",
+          "body": "警政署165全民防騙網警訊：釣魚短網址騙取簡訊動態密碼(OTP)盜刷盜轉防制指引。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_11:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_12",
+      "category": "民生財經",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "美元高利定存專案到期轉存陷阱與換匯成本拆解",
+          "body": "美元高利定存多為短天期促銷，應考量台美雙向換匯成本與到期後續存降息風險。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_12:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "美元高利定存專案到期轉存陷阱與換匯成本拆解｜自保操作步驟",
+          "body": "1. 試算實質年化報酬率，扣除買入賣出匯差手續費後確認是否划算\n2. 注意方案是否限定新資金或短天期(如1個月)，確認到期自動續存利率\n3. 設定匯率波動停損停利點，切勿為了賺取微薄利差承擔匯率虧損風險",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_12:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "美元高利定存專案到期轉存陷阱與換匯成本拆解｜依據與限制",
+          "body": "銀行公會外幣存款定型化契約條款：外幣存款涉及匯率兌換風險，本金折算新臺幣可能發生損失。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_12:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_14",
+      "category": "健康醫療",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "公費流感與新冠疫苗分階段開打對象與接種間隔",
+          "body": "公費流感及新冠JN.1疫苗已分階段開打，符合資格之長者幼童可「左流右新」同時接種。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.cdc.gov.tw/",
+          "content_id": "LSI_EVT_20261012_14:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "公費流感與新冠疫苗分階段開打對象與接種間隔｜自保操作步驟",
+          "body": "1. 符合第一階段公費對象者（65歲以上、醫事人員、滿6個月至國小入學前幼兒等）備妥健保卡\n2. 前往合約診所或衛生所，評估後可於雙臂分別接種流感與新冠疫苗\n3. 接種後於現場留觀15-30分鐘，無急性過敏反應後再行返家",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.cdc.gov.tw/",
+          "content_id": "LSI_EVT_20261012_14:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "公費流感與新冠疫苗分階段開打對象與接種間隔｜依據與限制",
+          "body": "衛生福利部疾病管制署公費流感及新冠疫苗接種推動計畫。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.cdc.gov.tw/",
+          "content_id": "LSI_EVT_20261012_14:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_15",
+      "category": "健康醫療",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "進口草莓與生鮮蔬果食用前安全清洗指引",
+          "body": "邊境抽驗不合格水果已整批退運銷毀；居家清洗生鮮蔬果應以「流動清水沖洗」為主，依各類蔬果特性處理。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.fda.gov.tw/",
+          "content_id": "LSI_EVT_20261012_15:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "進口草莓與生鮮蔬果食用前安全清洗指引｜自保操作步驟",
+          "body": "1. 葉菜與小型漿果置於水盆中以「細小流動清水」沖洗數分鐘\n2. 帶皮水果（如哈密瓜、柑橘）先以流動清水搭配軟毛刷清洗乾淨後再行切皮，避免刀具沾染外皮農藥\n3. 避免過度依賴鹽水或蔬果清潔劑，足夠流動清水沖洗即可有效帶走水溶性農藥",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.fda.gov.tw/",
+          "content_id": "LSI_EVT_20261012_15:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "進口草莓與生鮮蔬果食用前安全清洗指引｜依據與限制",
+          "body": "衛生福利部食品藥物管理署生鮮蔬果清洗安全衛生原則。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.fda.gov.tw/",
+          "content_id": "LSI_EVT_20261012_15:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_16",
+      "category": "影視娛樂",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "演唱會實名制購票規範與二手票券詐騙防範",
+          "body": "文創法加重轉售票券罰鍰，實名制入場核驗身分證，切勿向社群黃牛購票以防無法入場。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_16:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "演唱會實名制購票規範與二手票券詐騙防範｜自保操作步驟",
+          "body": "1. 官方售票系統購票時務必填寫與身分證件相符之姓名與身分證號\n2. 演出當日攜帶國民身分證、健保卡或護照正本以備工作人員查驗\n3. 拒絕購買臉書社團、二手讓票平台加價票，避免遭遇匯款後封鎖之詐騙",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_16:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "演唱會實名制購票規範與二手票券詐騙防範｜依據與限制",
+          "body": "文化創意產業發展法第10條之1：加價轉售藝文表演票券者，按票面金額處10倍至50倍罰鍰。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_16:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_17",
+      "category": "影視娛樂",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "Netflix等串流影音非同住共用帳號認證限制與處置方式",
+          "body": "以Netflix為例，平台依主要連線位置判定同住家庭，非同住親友需透過代碼驗證或加購成員方案。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_17:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "Netflix等串流影音非同住共用帳號認證限制與處置方式｜自保操作步驟",
+          "body": "1. 將主要電視設備設定於家用主WiFi網路作為主地點\n2. 同住之行動裝置定時連線主WiFi完成驗證\n3. 長期非同住親友，建議透過官方「額外成員」加價方案或獨立開戶，避免裝置遭阻擋",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_17:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "Netflix等串流影音非同住共用帳號認證限制與處置方式｜依據與限制",
+          "body": "各大影音串流平台用戶服務條款及帳號共享使用規則。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_17:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_19",
+      "category": "體育旅遊",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "11月赴日購物注意！日本免稅改為先付後退新制解析",
+          "body": "日本規劃自2026年11月1日起推行免稅新制，購物時先付含稅價、出境機場核驗後退稅；10月底前維持原制。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_19:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "11月赴日購物注意！日本免稅改為先付後退新制解析｜自保操作步驟",
+          "body": "1. 2026年10月底前赴日仍適用現行店內直接免稅舊制\n2. 11月1日新制上路後，購物先付含稅價並保留退稅專用電子憑證與發票\n3. 出境當天預留充裕時間於機場海關掃描退稅機台，確認商品隨身出境後領取退稅",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_19:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "11月赴日購物注意！日本免稅改為先付後退新制解析｜依據與限制",
+          "body": "日本觀光廳與財務省外國旅客消費稅免稅制度改革方案。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_19:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_20",
+      "category": "體育旅遊",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "斯巴達障礙跑賽事安全注意事項與防護裝備指引",
+          "body": "參與極限障礙路跑需評估自身體能與失溫風險，自備止滑手套並確認自費額外意外險。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_20:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "斯巴達障礙跑賽事安全注意事項與防護裝備指引｜自保操作步驟",
+          "body": "1. 賽前評估心肺耐力與關節狀況，裝備選用抓地越野鞋與全指防割手套\n2. 穿越泥漿與低溫水坑後及時擦乾身體，預防低體溫症\n3. 大會公共意外責任險多不涵蓋個人疾病與單純意外跌倒，行前應投保個人傷害險",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_20:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "斯巴達障礙跑賽事安全注意事項與防護裝備指引｜依據與限制",
+          "body": "教育部體育署路跑賽事安全維護指引及賽事定型化契約範本。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_20:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_21",
+      "category": "體育旅遊",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "旅平險海外突發疾病醫療附加條款是否理賠法定傳染病",
+          "body": "出國投保旅平險應檢視突發疾病醫療條款，確認是否排除法定傳染病，就醫需備齊單據。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_21:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "旅平險海外突發疾病醫療附加條款是否理賠法定傳染病｜自保操作步驟",
+          "body": "1. 投保前詳閱保單條款「海外突發疾病醫療保險金」是否涵蓋新冠或流感等法定傳染病\n2. 海外就醫時向醫院索取完整英文診斷證明書正本與收據費用明細正本\n3. 返國後先至健保署申請海外緊急就醫自墊醫療費用核退，再向產險公司申請理賠",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_21:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "旅平險海外突發疾病醫療附加條款是否理賠法定傳染病｜依據與限制",
+          "body": "金管會保險局旅行平安保險標準條款與海外突發疾病醫療附加條款規範。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_21:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_22",
+      "category": "數位科技",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "Google帳號怕被盜？先做好這三件事建立自保防線",
+          "body": "防範Google帳號遭盜，務必開啟兩步驟驗證並產生官方10組備用碼，切勿輕信非官方代解管道。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://support.google.com/accounts/",
+          "content_id": "LSI_EVT_20261012_22:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "Google帳號怕被盜？先做好這三件事建立自保防線｜自保操作步驟",
+          "body": "1. 開啟兩步驟驗證，並考慮綁定Passkey(通行密鑰)作為主要驗證\n2. 於安全性頁面生成「10組一次性備用碼」，列印並離線妥善存放\n3. 若帳號不幸遭盜，一律透過Google官方帳號救援頁面申訴，勿花錢找陌生人代解",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://support.google.com/accounts/",
+          "content_id": "LSI_EVT_20261012_22:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "Google帳號怕被盜？先做好這三件事建立自保防線｜依據與限制",
+          "body": "Google帳戶安全性說明與兩步驟驗證官方操作指南。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://support.google.com/accounts/",
+          "content_id": "LSI_EVT_20261012_22:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_23",
+      "category": "數位科技",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "Android 關閉 RCS 可以減少可疑訊息，仍須防範 SMS 詐騙",
+          "body": "關閉 RCS 可減少透過 RCS 收到的可疑訊息，但仍可能收到一般 SMS 簡訊或其他管道的詐騙訊息，不能只依靠這項設定。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://165.npa.gov.tw/",
+          "content_id": "LSI_EVT_20261012_23:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "Android 關閉 RCS 可以減少可疑訊息，仍須防範 SMS 詐騙｜自保操作步驟",
+          "body": "1. 開啟Google訊息App，至「訊息設定」>「RCS即時通訊功能」切換為關閉，降低垃圾推播\n2. 收到一般SMS簡訊依然「不點不明短網址、不填信用卡號與OTP密碼」\n3. 搭配Whoscall等防詐辨識工具，遇可疑訊息撥打165專線核對",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://165.npa.gov.tw/",
+          "content_id": "LSI_EVT_20261012_23:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "Android 關閉 RCS 可以減少可疑訊息，仍須防範 SMS 詐騙｜依據與限制",
+          "body": "警政署刑事警察局165全民防騙網資安防護指引。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://165.npa.gov.tw/",
+          "content_id": "LSI_EVT_20261012_23:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    },
+    {
+      "event_id": "LSI_EVT_20261012_24",
+      "category": "數位科技",
+      "date": "2026-10-12",
+      "archive": false,
+      "layers": [
+        {
+          "level": "L1",
+          "title": "SSD固態硬碟選購保固與冷資料掉速陷阱實務指南",
+          "body": "選購SSD應優先挑選TLC顆粒與高TBW耐用度，重要長期冷儲存備份應搭配傳統硬碟。",
+          "action": "查看注意事項與操作步驟（L2），並核對原始公告。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_24:L1",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L2",
+          "title": "SSD固態硬碟選購保固與冷資料掉速陷阱實務指南｜自保操作步驟",
+          "body": "1. 購買前檢視官方規格書，區分TLC與QLC快閃顆粒，重要系統碟優先挑選TLC架構\n2. 查閱保固條款中的TBW(寫入總量限制)與保固年限(通常為3至5年)，以先到者為準\n3. SSD不宜作為唯一長期不通電之冷備份媒介，防止因電荷流失產生讀取降速甚至資料遺失",
+          "action": "請依最新官方規定與實際情況辦理。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_24:L2",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        },
+        {
+          "level": "L3",
+          "title": "SSD固態硬碟選購保固與冷資料掉速陷阱實務指南｜依據與限制",
+          "body": "固態硬碟JEDEC標準規範與各大快閃記憶體原廠技術白皮書。",
+          "action": "請以相關機關最新正式公告及適用條文為準。",
+          "caveat": "本期整理日期為 2026-10-12；來源文件僅有機關名稱、沒有可逐篇核對的原始公告連結，相關即時或數字主張仍須來源複核。",
+          "source": "https://www.gov.tw/",
+          "content_id": "LSI_EVT_20261012_24:L3",
+          "release_state": "STAGING_CONTENT_REVIEWED_SOURCE_URL_PENDING"
+        }
+      ]
+    }
+  ]
+}
