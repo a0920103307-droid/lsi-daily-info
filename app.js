@@ -47,4 +47,4 @@ function loadDailyFeed() {
   document.head.appendChild(script);
 }
 
-window.addEventListener("load", loadDailyFeed);
+// window.addEventListener("load", loadDailyFeed);
